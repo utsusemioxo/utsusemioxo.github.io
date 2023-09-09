@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog of DuLing</title>
+    <link>https://utsusemioxo.github.io/</link>
+    <description>Recent content on Blog of DuLing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2023 05:55:46 +0800</lastBuildDate><atom:link href="https://utsusemioxo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://utsusemioxo.github.io/posts/mypost/</link>
+      <pubDate>Sun, 10 Sep 2023 05:55:46 +0800</pubDate>
+      
+      <guid>https://utsusemioxo.github.io/posts/mypost/</guid>
+      <description>This is content.
+#include &amp;lt;iostream&amp;gt; int main() { std::cout &amp;lt;&amp;lt; &amp;#34;Hello world!&amp;#34; &amp;lt;&amp;lt; std::endl; } </description>
+    </item>
+    
+  </channel>
+</rss>
